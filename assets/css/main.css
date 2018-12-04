@@ -3129,8 +3129,8 @@ input, select, textarea {
 				color: #242943;
 				display: inline-block;
 				line-height: 1.65em;
-				margin-right: 0.325em;
-				padding: 0 0.125em 0 0.375em;
+				margin-right: 0.125em;
+				padding: 0 0.125em 0 0.125em;
 			}
 
 			#header .logo:hover strong {
