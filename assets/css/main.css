@@ -3129,7 +3129,7 @@ input, select, textarea {
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.125em;
-				padding: 0 0 0 0;
+				padding: 0 .125em 0 .125em;
 			}
 
 			#header .logo:hover strong {
