@@ -3126,8 +3126,8 @@ input, select, textarea {
 				background-color: #ffffff;
 				font-size: 1.25em;
 				color: #242943;
-				display: inline-block;
-				line-height: 1.65em;
+				/*display: inline-block;
+				line-height: 1.65em;*/
 				margin-right: 0.125em;
 				padding: 0 .125em 0 .125em;
 			}
