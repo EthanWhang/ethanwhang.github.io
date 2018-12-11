@@ -2805,7 +2805,7 @@ input, select, textarea {
 				opacity: 0;
 			}
 
-			.tiles article:nth-child(4n - 3) {
+			.tiles article:nth-child(6n - 5) {
 				width: 100%;
 			}
 
