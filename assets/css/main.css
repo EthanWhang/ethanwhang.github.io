@@ -2809,7 +2809,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-			.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
+			.tiles article:nth-child(6n - 4), .tiles article:nth-child(6n - 2) {
 				width: 60%;
 			}
 
