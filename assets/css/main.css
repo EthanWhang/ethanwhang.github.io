@@ -2805,11 +2805,11 @@ input, select, textarea {
 				opacity: 0;
 			}
 
-			.tiles article:nth-child(6n - 5) {
+			.tiles article:nth-child(6n - 1) {
 				width: 100%;
 			}
 
-			.tiles article:nth-child(6n - 4), .tiles article:nth-child(6n - 2) {
+			.tiles article:nth-child(6n - 5), .tiles article:nth-child(6n - 2) {
 				width: 60%;
 			}
 
